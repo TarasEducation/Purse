@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Credit\Credit.csproj" />
     <ProjectReference Include="..\Money\Money.csproj" />
   </ItemGroup>
 
